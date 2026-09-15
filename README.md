@@ -1,2 +1,2 @@
 # Mijn_eerste_webapp
-Een Progressive webapp rekenmachine
+Een Progressive web app rekenmachine (HTML+JS)
